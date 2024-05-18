@@ -1,0 +1,14 @@
+F:\All\Code\Programas\Sum ll\Principios de oop\Principios de oop\bin\Debug\net8.0\Principios de oop.exe
+F:\All\Code\Programas\Sum ll\Principios de oop\Principios de oop\bin\Debug\net8.0\Principios de oop.deps.json
+F:\All\Code\Programas\Sum ll\Principios de oop\Principios de oop\bin\Debug\net8.0\Principios de oop.runtimeconfig.json
+F:\All\Code\Programas\Sum ll\Principios de oop\Principios de oop\bin\Debug\net8.0\Principios de oop.dll
+F:\All\Code\Programas\Sum ll\Principios de oop\Principios de oop\bin\Debug\net8.0\Principios de oop.pdb
+F:\All\Code\Programas\Sum ll\Principios de oop\Principios de oop\obj\Debug\net8.0\Principios de oop.GeneratedMSBuildEditorConfig.editorconfig
+F:\All\Code\Programas\Sum ll\Principios de oop\Principios de oop\obj\Debug\net8.0\Principios de oop.AssemblyInfoInputs.cache
+F:\All\Code\Programas\Sum ll\Principios de oop\Principios de oop\obj\Debug\net8.0\Principios de oop.AssemblyInfo.cs
+F:\All\Code\Programas\Sum ll\Principios de oop\Principios de oop\obj\Debug\net8.0\Principios de oop.csproj.CoreCompileInputs.cache
+F:\All\Code\Programas\Sum ll\Principios de oop\Principios de oop\obj\Debug\net8.0\Principios de oop.dll
+F:\All\Code\Programas\Sum ll\Principios de oop\Principios de oop\obj\Debug\net8.0\refint\Principios de oop.dll
+F:\All\Code\Programas\Sum ll\Principios de oop\Principios de oop\obj\Debug\net8.0\Principios de oop.pdb
+F:\All\Code\Programas\Sum ll\Principios de oop\Principios de oop\obj\Debug\net8.0\Principios de oop.genruntimeconfig.cache
+F:\All\Code\Programas\Sum ll\Principios de oop\Principios de oop\obj\Debug\net8.0\ref\Principios de oop.dll
